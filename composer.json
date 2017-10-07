@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "HILMAK01/novam_cms",
+    "description": "Novam Online CMS.",
     "keywords": ["framework", "laravel"],
-    "license": "MIT",
-    "type": "project",
+    "version": "1.0",
+    "type": "package",
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "~3.3",
